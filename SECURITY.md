@@ -16,7 +16,7 @@ We take security vulnerabilities seriously. If you discover a security vulnerabi
 ### How to Report
 
 1. **Do not** open a public GitHub issue for security vulnerabilities
-2. Email us directly at: **security@foxly-labs.com**
+2. Email us directly at: **dev@galaxyco.ai**
 3. Include the following information:
    - Description of the vulnerability
    - Steps to reproduce
@@ -90,7 +90,7 @@ We maintain compliance with:
 
 For security-related inquiries:
 
-- **Email**: security@foxly-labs.com
+- **Email**: dev@galaxyco.ai
 - **Response Time**: Within 24 hours
 - **PGP Key**: Available upon request
 
